@@ -1,4 +1,4 @@
-# Honda-Sales-Sashboard-PowerBI
+# Honda-Sales-Dashboard-PowerBI
 
 ## 1. Project Overview
 
